@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\bin\Debug\netcoreapp2.1\19.05.17.deps.json
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\bin\Debug\netcoreapp2.1\19.05.17.runtimeconfig.json
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\bin\Debug\netcoreapp2.1\19.05.17.runtimeconfig.dev.json
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\bin\Debug\netcoreapp2.1\19.05.17.dll
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\bin\Debug\netcoreapp2.1\19.05.17.pdb
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.AssemblyInfo.cs
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.dll
+C:\Users\pc\Desktop\코딩\19.05.17\19.05.17\obj\Debug\netcoreapp2.1\19.05.17.pdb

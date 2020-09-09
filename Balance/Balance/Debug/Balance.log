@@ -1,0 +1,9 @@
+﻿  test.cpp
+  balance.obj : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+c:\users\johnnyapu15\downloads\주간(3팔저울)\newcoin\balance.cpp(212): warning C4715: 'getSize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  코드를 생성했습니다.
+balance.obj : warning LNK4099: 'vc141.pdb' PDB를 'balance.obj' 또는 'C:\Users\pc\Desktop\코딩\Balance\Debug\vc141.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Balance.vcxproj -> C:\Users\pc\Desktop\코딩\Balance\Debug\Balance.exe
